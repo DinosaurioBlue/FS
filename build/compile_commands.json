@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/francob/eda/TP0EDA/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/tp0eda.dir/main.c.o -c /home/francob/eda/TP0EDA/main.c",
+  "file": "/home/francob/eda/TP0EDA/main.c",
+  "output": "CMakeFiles/tp0eda.dir/main.c.o"
+}
+]
