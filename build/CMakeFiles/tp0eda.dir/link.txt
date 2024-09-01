@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/tp0eda.dir/main.c.o -o tp0eda 
