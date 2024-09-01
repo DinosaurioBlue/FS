@@ -1,0 +1,3 @@
+/home/francob/eda/TP0EDA/build/CMakeFiles/tp0eda.dir
+/home/francob/eda/TP0EDA/build/CMakeFiles/edit_cache.dir
+/home/francob/eda/TP0EDA/build/CMakeFiles/rebuild_cache.dir
