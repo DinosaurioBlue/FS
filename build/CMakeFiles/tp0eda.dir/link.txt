@@ -1,1 +1,1 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/tp0eda.dir/extra.cpp.o CMakeFiles/tp0eda.dir/main.cpp.o -o tp0eda 
+/usr/bin/c++ -g CMakeFiles/tp0eda.dir/extra.cpp.o CMakeFiles/tp0eda.dir/main.cpp.o -o tp0eda 

@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.5.0"
@@ -19,7 +19,7 @@
 					]
 				}
 			],
-			"name" : "Release",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "tp0eda::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-tp0eda-Release-7ddaebd7ede145eb6162.json",
+					"jsonFile" : "target-tp0eda-Debug-3c8dcbbad36f2d3b27b5.json",
 					"name" : "tp0eda",
 					"projectIndex" : 0
 				}

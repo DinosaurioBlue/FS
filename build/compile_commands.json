@@ -1,13 +1,13 @@
 [
 {
   "directory": "/home/francob/eda/TP0EDA/build",
-  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/tp0eda.dir/extra.cpp.o -c /home/francob/eda/TP0EDA/extra.cpp",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tp0eda.dir/extra.cpp.o -c /home/francob/eda/TP0EDA/extra.cpp",
   "file": "/home/francob/eda/TP0EDA/extra.cpp",
   "output": "CMakeFiles/tp0eda.dir/extra.cpp.o"
 },
 {
   "directory": "/home/francob/eda/TP0EDA/build",
-  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/tp0eda.dir/main.cpp.o -c /home/francob/eda/TP0EDA/main.cpp",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/tp0eda.dir/main.cpp.o -c /home/francob/eda/TP0EDA/main.cpp",
   "file": "/home/francob/eda/TP0EDA/main.cpp",
   "output": "CMakeFiles/tp0eda.dir/main.cpp.o"
 }
