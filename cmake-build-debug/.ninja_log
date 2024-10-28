@@ -1,0 +1,8 @@
+# ninja log v6
+6	170	7517724178067363	CMakeFiles/tp0eda.dir/extra.cpp.obj	429c08c917a32d44
+11	700	7517729837368247	CMakeFiles/tp0eda.dir/main.cpp.obj	7459cf34cc22cbc9
+10	794	7517725254452995	CMakeFiles/tp0eda.dir/build/interpolacionlineal.cpp.obj	51135cf1ca7113d0
+701	864	7517729844268705	tp0eda.exe	eb9d593c81a4f4e0
+28	788	7518410913023064	CMakeFiles/tp0eda.dir/nprimo.cpp.obj	97d549340b976877
+22	792	7518410912952179	CMakeFiles/tp0eda.dir/main.cpp.obj	7459cf34cc22cbc9
+28	774	7518411659130813	CMakeFiles/tp0eda.dir/main.cpp.obj	7459cf34cc22cbc9
